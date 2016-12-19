@@ -34,13 +34,13 @@ It's not just that I want to make this, it's that I need to.
 This is one of the tougher things for me. As someone who knows the business, a lot of things for this would be high priority and high impact, but we'll give it a shot here.
 
 ####Priority
->#####High Priority
-The highest priority item for me in this is definitely the information from Dept. of Labor and MN DEED. Without it, the whole project is just a flashy bunch of hard-coded information with no real purpose. The information gathered is wage information, job description, job demand (high-med-low), skill requirement and educational requirements. It is the heart and soul of the project as the Career Exploration Day is about getting as many of this future workforce educated on their options and prepare them for the decisions ahead of them.
+#####High Priority
+>The highest priority item for me in this is definitely the information from Dept. of Labor and MN DEED. Without it, the whole project is just a flashy bunch of hard-coded information with no real purpose. The information gathered is wage information, job description, job demand (high-med-low), skill requirement and educational requirements. It is the heart and soul of the project as the Career Exploration Day is about getting as many of this future workforce educated on their options and prepare them for the decisions ahead of them.
 
-The bus schedule/alarm item, personally, is very high. I've been in charge of the bussing portion of this event and I can say it's very stressful for those involved. You never have enough volunteers to direct people and we were always looking for kids, which make busses late and mess up the whole parking/moving situation in the small area the busses are in.
+>The bus schedule/alarm item, personally, is very high. I've been in charge of the bussing portion of this event and I can say it's very stressful for those involved. You never have enough volunteers to direct people and we were always looking for kids, which make busses late and mess up the whole parking/moving situation in the small area the busses are in.
 
->#####Medium Priority
-The clickable/interactive map of the college is close to being high priority, but can be worked around. It would simplify the interaction for the students if they could just click on the sections rather than having to search for them through the app.
+#####Medium Priority
+>The clickable/interactive map of the college is close to being high priority, but can be worked around. It would simplify the interaction for the students if they could just click on the sections rather than having to search for them through the app.
 
 
 
