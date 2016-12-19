@@ -42,9 +42,9 @@ The bus schedule/alarm item, personally, is very high for both as well. I've bee
 Having a solid toast to say their submission worked with their codes, while being able to send with it the amount of codes they were able to receive.
 
 #####Low Priority
->The clickable/interactive map of the college is close to being high priority, but can be worked around and becomes lower priority with medium impact. It would simplify the interaction for the students if they could just click on the sections rather than having to search for them through the app.
+The clickable/interactive map of the college is close to being high priority, but can be worked around and becomes lower priority with medium impact. It would simplify the interaction for the students if they could just click on the sections rather than having to search for them through the app.
 
->Heavy design is a little lower on my priority list for this. I really want it to look solid and clean, but functionality with something like this is definitely more important. The design can always be altered and cleaned up while we go. Obviously, this has a definitely higher impact if it looks good, but I'd rather it have solid lines, clean, fast and straight forward.
+Heavy design is a little lower on my priority list for this. I really want it to look solid and clean, but functionality with something like this is definitely more important. The design can always be altered and cleaned up while we go. Obviously, this has a definitely higher impact if it looks good, but I'd rather it have solid lines, clean, fast and straight forward.
 
 #####Mystery/Mastery
 
