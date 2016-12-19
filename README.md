@@ -1,5 +1,3 @@
-I would like you to brainstorm write at least two final project ideas. I care a bit less about the technology you plan to use and more about the problem that you're hoping to solve. You should write about what your idea is, where your inspiration came from and who your users would be. You should tell me what if any names you've thought of. You should break down the idea into stories. Stories read like this.
-
 ##Final Project for TIY
 Well, here we are. Planning for the last project we do at The Iron Yard.
 
