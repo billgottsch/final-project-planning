@@ -33,14 +33,42 @@ It's not just that I want to make this, it's that I need to.
 ###Priority, Impact and Mystery/Mastery
 This is one of the tougher things for me. As someone who knows the business, a lot of things for this would be high priority and high impact, but we'll give it a shot here.
 
-####Priority
+####Priority and Impact
 #####High Priority
->The highest priority item for me in this is definitely the information from Dept. of Labor and MN DEED. Without it, the whole project is just a flashy bunch of hard-coded information with no real purpose. The information gathered is wage information, job description, job demand (high-med-low), skill requirement and educational requirements. It is the heart and soul of the project as the Career Exploration Day is about getting as many of this future workforce educated on their options and prepare them for the decisions ahead of them.
+The highest priority and highest impact item for me in this is definitely the information from Dept. of Labor and MN DEED. Having it clear, concise and complete is very important to me. I don't want to develop something with poor information. Without it, the whole project is just a flashy bunch of hard-coded information with no real purpose. The information gathered is wage information, job description, job demand (high-med-low), skill requirement and educational requirements. It is the heart and soul of the project as the Career Exploration Day is about getting as many of this future workforce educated on their options and prepare them for the decisions ahead of them.
 
->The bus schedule/alarm item, personally, is very high. I've been in charge of the bussing portion of this event and I can say it's very stressful for those involved. You never have enough volunteers to direct people and we were always looking for kids, which make busses late and mess up the whole parking/moving situation in the small area the busses are in.
+The bus schedule/alarm item, personally, is very high for both as well. I've been in charge of the bussing portion of this event and I can say it's very stressful for those involved. You never have enough volunteers to direct people and we were always looking for kids, which make busses late and mess up the whole parking/moving situation in the small area the busses are in.
 
-#####Medium Priority
->The clickable/interactive map of the college is close to being high priority, but can be worked around. It would simplify the interaction for the students if they could just click on the sections rather than having to search for them through the app.
+Having a solid toast to say their submission worked with their codes, while being able to send with it the amount of codes they were able to receive.
+
+#####Low Priority
+>The clickable/interactive map of the college is close to being high priority, but can be worked around and becomes lower priority with medium impact. It would simplify the interaction for the students if they could just click on the sections rather than having to search for them through the app.
+
+>Heavy design is a little lower on my priority list for this. I really want it to look solid and clean, but functionality with something like this is definitely more important. The design can always be altered and cleaned up while we go. Obviously, this has a definitely higher impact if it looks good, but I'd rather it have solid lines, clean, fast and straight forward.
+
+#####Mystery/Mastery
+
+#####Mystery
+How the API's are going to(if they do) work. We've retrieved data from API's before, but every one has been different and they've all had their own tricks to them. It's always a mystery.
+
+Will I be able to break up this map into interactive pieces? Where do I send the submission codes when they've completed it and how will I show it in my presentation?
+
+Using react-native is still a mystery to me, though I feel after this I may be a master. Who knows!
+
+#####Mastery
+Design and styling itself is coming together in my head a little bit, I know how to design and style so it won't be as big of an impact on the mental process of this project.
+
+I know this business very well. The process, the production and the interactions. I have resources at my disposal that can really help me create something very good here.
 
 
+###Now for the hard part - Focus!
+I have such a hard time focusing on things sometimes. I can go for a few hours and work like mad, but once I'm off that train it's hard for me to jump back on. So, I've come up with a few ways to fight this;
 
++ Music - if I have my headphones on I'm probably non-existent on this world. It shuts me off from it and allows me to focus on what is most important. It's interesting that, if I just sit down and put something on, I actually can hop back on that train.
++ Break, break, break - I know that if I get discouraged, I actually start working a little harder, but sooner or later it starts to get to me. I plan on taking breaks and pulling myself back together.
++ Finishing things one at a time - No more 90% completes. It's 100% or I don't move on. If I don't do this, I get overwhelmed by what still needs to be done...which brings me to the last one.
++ ONE. THING. AT. A. TIME - fin. period.
+
+I haven't completed my plan yet for the project, but the design phase is well on it's way. The color palette has been chosen, I've started gathering MN DEED and Dept of Labor api information that I'll be combing through. 
+
+This will be a test to my patience, my abilities and my passions. I feel up to it, I'm mentally ready to go and I'm excited to get on it.
