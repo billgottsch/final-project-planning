@@ -2,7 +2,7 @@
 Well, here we are. Planning for the last project we do at The Iron Yard.
 
 ##Idea #1 - Bridges Career Exploration Day "Day-of-event" App.
-Probably not the title of the app, but this is what it is. [Bridges Career Academies and Workplace Connection](www.bridgesconnection.org) is a non-profit who's main focus is working with highschools and colleges in an effort to better serve the student's in giving them the education and information needed to make better career decisions. Not only that, but working with businesses in the Brainerd Lakes Area to learn about job/skill needs in order to create a more prepared workforce.
+Probably not the title of the app, but this is what it is. [Bridges Career Academies and Workplace Connection](http://www.bridgesconnection.org) is a non-profit who's main focus is working with highschools and colleges in an effort to better serve the student's in giving them the education and information needed to make better career decisions. Not only that, but working with businesses in the Brainerd Lakes Area to learn about job/skill needs in order to create a more prepared workforce.
 
 At the end of the school year (first week of march) Bridges holds a Career Exploration Day in which 2500 students ranging from 9th to 12th grade converge on Central Lakes College in Brainerd, MN for a day of hands-on exploration into hundreds of different career options in many different types of business. Hundreds of volunteers donate their time to represent their careers (while not selling or promoting their businesses) and dedicating their time to educate students.
 
